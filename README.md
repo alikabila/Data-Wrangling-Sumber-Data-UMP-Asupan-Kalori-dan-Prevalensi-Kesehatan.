@@ -1,2 +1,2 @@
 # Data-Wrangling-Sumber-Data-UMP-Asupan-Kalori-dan-Prevalensi-Kesehatan.
-Project Akhir Data Wrangling tentang analisis UMP, asupan kalori, status gizi, dan kerawanan pangan provinsi di Indonesia. Termasuk proses scraping, cleaning, penanganan missing value &amp; outlier, dan visualisasi.
+Repository ini berisi project akhir mata kuliah Data Wrangling yang berfokus pada analisis hubungan antara UMP, asupan kalori (berdasarkan kuintil), status gizi (stunting, wasting, overweight), dan kerawanan pangan antar provinsi di Indonesia. Proses mencakup scraping, ekstraksi PDF, pembersihan data, penanganan missing values dan outlier, analisis deskriptif, hingga visualisasi data.
